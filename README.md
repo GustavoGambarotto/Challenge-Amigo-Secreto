@@ -13,3 +13,6 @@ Este é um projeto em JavaScript que permite aos usuários inserir nomes de amig
 - HTML
 - CSS
 - JavaScript
+
+- ## Pode ser acessado através do link :
+- https://challenge-amigo-secreto-lilac-phi.vercel.app/
